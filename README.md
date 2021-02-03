@@ -1,12 +1,10 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)  SOFTWARE ENGINEERING IMMERSIVE
+# Box Model Practice
+
+## Overview
+In this practice, we'll use what we've learned with CSS to try and replicate the model shown below.
 
 ## Getting Started
-
-1. Fork
-2. Clone
-
-# Box Model & Positioning
-
-Your task is to implement the following mockup:
+- Fork and Clone
+- Open in VSCode
 
 ![](box-model.png)
